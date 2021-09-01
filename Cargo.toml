@@ -1,4 +1,6 @@
 [workspace]
 members = [
-  "frame-metadata"
+  "frame-metadata",
+  "utils",
+  "cli",
 ]
